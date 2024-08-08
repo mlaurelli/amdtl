@@ -28,3 +28,12 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/username/amdtl.git
 cd amdtl
 pip install -r requirements.txt
+
+## Usage
+### Preprocessing Data 
+Run the preprocessing scripts for each dataset:
+
+```bash
+python datasets/preprocess_office31.py
+python datasets/preprocess_domainnet.py
+python datasets/preprocess_librispeech.py
