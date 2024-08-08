@@ -78,5 +78,5 @@ We welcome contributions to improve AMDTL. Please fork the repository, create a 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or collaboration inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or collaboration inquiries, please contact [m.laurelli@algoretico.it](mailto:m.laurelli@algoretico.it).
 ```
