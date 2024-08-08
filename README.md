@@ -28,6 +28,7 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/username/amdtl.git
 cd amdtl
 pip install -r requirements.txt
+```bash
 
 ## Usage
 ### Preprocessing Data 
