@@ -2,7 +2,7 @@
 
 This repository contains the code, datasets, and resources for the Adaptive Meta-Domain Transfer Learning (AMDTL) framework, which integrates meta-learning, adversarial domain adaptation, dynamic feature adjustment, and domain embeddings to enhance AI model adaptability and robustness across various applications.
 
-The official paper can be found [introduction](https://arxiv.org/abs/2409.06800)
+The official paper can be found [here](https://arxiv.org/abs/2409.06800)
 
 ## Table of Contents
 - [Introduction](#introduction)
